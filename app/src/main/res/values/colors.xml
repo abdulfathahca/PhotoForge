@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6A1B9A</color>
+    <color name="primary_dark">#FF4A0075</color>
+    <color name="primary_light">#FFBB66CF</color>
+    <color name="secondary">#FF00897B</color>
+    <color name="secondary_dark">#FF00695C</color>
+    <color name="secondary_light">#FF66FFE0</color>
+    <color name="background">#FF1E1E2E</color>
+    <color name="surface">#FF28283E</color>
+    <color name="surface_variant">#FF313244</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_background">#FFE6E6FA</color>
+    <color name="on_surface">#FFE6E6FA</color>
+    <color name="error">#FFB00020</color>
+    <color name="toolbar_bg">#FF181825</color>
+    <color name="panel_bg">#FF1E1E2E</color>
+    <color name="panel_header">#FF313244</color>
+    <color name="accent">#FF89B4FA</color>
+    <color name="text_primary">#FFE6E6FA</color>
+    <color name="text_secondary">#FFBAC2DE</color>
+    <color name="divider">#FF45475A</color>
+    <color name="button_primary">#FF6C7086</color>
+    <color name="selection">#FF89B4FA</color>
+    <color name="grid_line">#FF313244</color>
+</resources>

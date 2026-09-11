@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_png">Export as PNG</string>
+    <string name="export_jpeg">Export as JPEG</string>
+    <string name="export_psd">Export as PSD</string>
+    <string name="import_image">Import Image</string>
+    <string name="image_width">Width</string>
+    <string name="image_height">Height</string>
+    <string name="image_resolution">Resolution</string>
+    <string name="resolution_72">72 DPI</string>
+    <string name="resolution_150">150 DPI</string>
+    <string name="resolution_300">300 DPI</string>
+</resources>
